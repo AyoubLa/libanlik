@@ -1,0 +1,16 @@
+{
+  "name": "libanlik",
+  "require": {
+    "php": ">=5.3",
+    "michelf/php-markdown": "1.4.*@dev"
+  },
+  "autoload": {
+    "psr-4" : {"App\\" : "App"}
+  },
+  "authors": [
+    {
+      "name": "Lahbali Ayoub",
+      "email": "ayoublahbali12@gmail.com"
+    }
+  ]
+}
